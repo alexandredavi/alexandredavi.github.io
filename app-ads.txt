@@ -1,0 +1,7 @@
+# app-ads.txt de https://alexandredavi.github.io — fica na RAIZ do domínio publicado na ficha da loja.
+# As linhas reais vêm do painel do AppLovin MAX (Account → app-ads.txt), com a
+# linha da AppLovin e as de cada rede de mediação. Cole aqui e apague estas
+# linhas de comentário de exemplo. Formato:
+#   <domínio da rede>, <ID de publisher>, DIRECT|RESELLER[, <ID de certificação>]
+# applovin.com, {{APPLOVIN_PUBLISHER_ID}}, DIRECT
+# google.com, {{ADMOB_PUBLISHER_ID}}, DIRECT, f08c47fec0942fa0

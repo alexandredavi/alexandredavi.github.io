@@ -1,0 +1,11 @@
+/* Páginas públicas do Kaiten: legíveis no celular, sem dependências. */
+body { margin: 0; background: #fff8ee; color: #3b2414; font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+main { max-width: 760px; margin: 0 auto; padding: 24px 16px 48px; }
+h1 { font-size: 1.6rem; line-height: 1.25; }
+h2 { font-size: 1.2rem; margin-top: 2rem; }
+h3 { font-size: 1rem; margin-bottom: .25rem; }
+a { color: #b4532a; }
+table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+th, td { border: 1px solid #e3cfb1; padding: 6px 8px; text-align: left; vertical-align: top; }
+.meta, .lang { color: #7a5a40; font-size: .9rem; }
+.lang { text-align: right; }
